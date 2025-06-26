@@ -51,7 +51,7 @@ Our high-level architecture consists of the following components:
     * **Spotify API**: Fetches user playlist data.
     * **Cloudinary**: Stores and serves user-uploaded media.
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](architecture2.png)
 
 ## 🧩 Modules
 
