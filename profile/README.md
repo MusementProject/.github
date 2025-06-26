@@ -19,16 +19,47 @@ Musement is an interactive platform that helps users find their next live music 
 * **Ticket Management**: Store, view, and manage tickets within the app
 * **Cloud Media Storage**: Upload and serve photos/videos via Cloudinary
 
+## 🛠️ Technology Stack
+
+| Purpose               | Technology                |
+| --------------------- | ------------------------- |
+| UI (Android)          | Android SDK               |
+| HTTP Framework        | Spring Boot               |
+| ORM                   | Hibernate                 |
+| Database              | PostgreSQL                |
+| Full-Text Search      | Elasticsearch             |
+| HTTP Client (Android) | Retrofit                  |
+| Authentication        | Google Play Services Auth |
+| Media Storage         | Cloudinary                |
+| Testing               | JUnit                     |
+
 ## 🏛️ Application Architecture
 
-<!-- Architecture diagram and high-level components go here -->
+Our high-level architecture consists of the following components:
+
+1. **Client (Android)**: Native Android app uses Retrofit and Google Auth modules to send requests.
+2. **Security Filter**: Validates incoming requests and passes authenticated calls to the server.
+3. **Server**:
+
+    * **Controllers**: Expose REST endpoints.
+    * **Services**: Implement business logic (playlist parsing, recommendations, social features).
+    * **Repositories**: Handle data persistence (Spring Data/Hibernate).
+4. **Musement DB (PostgreSQL)**: Persists users, playlists, artists, events, tickets, and threads.
+5. **External Services**:
+
+    * **Spotify API**: Fetches user playlist data.
+    * **Cloudinary**: Stores and serves user-uploaded media.
+
+You can add the visual diagram as an image in the `docs/` folder. For example:
+
+![Architecture Diagram](media/architecture.png)
 
 ## 🧩 Modules
 
 This project contains two main modules of the Musement app:
 
-1. **`Backend/`**: Spring Boot based REST API server (see [Backend/README.md]((https://github.com/MusementProject/Backend/blob/main/README.md)))
-2. **`Frontend/`**: Android application built with Android SDK (see [Frontend/README.md]((https://github.com/MusementProject/Frontend/blob/main/README.md)))
+1. **`Backend/`**: Spring Boot based REST API server (see [Backend/README.md](https://github.com/MusementProject/Backend/blob/main/README.md)  
+2. **`Frontend/`**: Android application built with Android SDK (see [Frontend/README.md](https://github.com/MusementProject/Frontend/blob/main/README.md))
 
 ---
 
