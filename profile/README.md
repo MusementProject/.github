@@ -14,7 +14,7 @@ Musement is an interactive platform that helps users find their next live music 
 * **User Authentication**: Sign up with email/password or Google OAuth2
 * **Playlist Integration**: Import and parse playlists from Spotify
 * **Personalized Recommendations**: Artist frequency ranking drives concert suggestions
-* **Social Interaction**: Follow friends, send invitations, request to join groups
+* **Social Interaction**: Subscribe to friends and see which concerts they’re attending
 * **Discussion Threads**: Comment and share experiences under each concert event
 * **Ticket Management**: Store, view, and manage tickets within the app
 * **Cloud Media Storage**: Upload and serve photos/videos via Cloudinary
