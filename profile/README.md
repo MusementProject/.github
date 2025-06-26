@@ -27,8 +27,8 @@ Musement is an interactive platform that helps users find their next live music 
 
 This repository contains two main modules of the Musement project:
 
-1. **`backend/`**: Spring Boot based REST API server (see [backend/README.md](backend/README.md))
-2. **`android/`**: Android application built with Android SDK (see [android/README.md](android/README.md))
+1. **`backend/`**: Spring Boot based REST API server (see [Backend/README.md](Backend/README.md))
+2. **`android/`**: Android application built with Android SDK (see [Frontend/README.md](Frontend/README.md))
 
 ---
 
@@ -37,9 +37,11 @@ This repository contains two main modules of the Musement project:
 **Developers:**
 
 * [Anna Artamonova](https://github.com/chepyr)
+* [Julia Burmistrova](https://github.com/gtmnnn)
+* [Nastia Malysheva](https://github.com/MalyshevaAN)
 
 **Mentor:**
 
-* [Anna Polupanova](https://github.com/)
+* [Anna Polupanova](https://github.com/polupanovaanna)
 
 *National Research University Higher School of Economics, St. Petersburg, Spring 2025*
