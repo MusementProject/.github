@@ -44,7 +44,7 @@ Our high-level architecture consists of the following components:
 
     * **Controllers**: Expose REST endpoints.
     * **Services**: Implement business logic (playlist parsing, recommendations, social features).
-    * **Repositories**: Handle data persistence (Spring Data/Hibernate).
+    * **Repositories**: Handle data persistence (Hibernate).
 4. **Musement DB (PostgreSQL)**: Persists users, playlists, artists, events, tickets, and threads.
 5. **External Services**:
 
