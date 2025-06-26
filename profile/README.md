@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Musement</h1>
-  <p>Discover concerts based on your favorite tracks — explore events, discuss them, and manage tickets effortlessly..</p>
+  <p>Discover concerts based on your favorite tracks — explore events, discuss them, and manage tickets effortlessly.</p>
 </div>
 
 ## 🎶 About this Project
