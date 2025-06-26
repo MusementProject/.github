@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Musement</h1>
-  <p>Discover and plan concerts based on your music taste, location, and schedule.</p>
+  <p>Discover concerts based on your favorite tracks — explore events, discuss them, and manage tickets effortlessly..</p>
 </div>
 
 ## 🎶 About this Project
@@ -25,10 +25,10 @@ Musement is an interactive platform that helps users find their next live music 
 
 ## 🧩 Modules
 
-This repository contains two main modules of the Musement project:
+This project contains two main modules of the Musement app:
 
-1. **`backend/`**: Spring Boot based REST API server (see [Backend/README.md](Backend/README.md))
-2. **`android/`**: Android application built with Android SDK (see [Frontend/README.md](Frontend/README.md))
+1. **`Backend/`**: Spring Boot based REST API server (see [Backend/README.md]((https://github.com/MusementProject/Backend/blob/main/README.md)))
+2. **`Frontend/`**: Android application built with Android SDK (see [Frontend/README.md]((https://github.com/MusementProject/Frontend/blob/main/README.md)))
 
 ---
 
