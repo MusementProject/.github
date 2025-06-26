@@ -1,4 +1,4 @@
-# Musement-Backend
+# Musement-Project
 
 <div align="center">
   <h1>Musement</h1>
