@@ -29,6 +29,7 @@ Musement is an interactive platform that helps users find their next live music 
 | Database              | PostgreSQL                |
 | Full-Text Search      | Elasticsearch             |
 | HTTP Client (Android) | Retrofit                  |
+| Music Data Source     | Spotify API               |
 | Authentication        | Google Play Services Auth |
 | Media Storage         | Cloudinary                |
 | Testing               | JUnit                     |
