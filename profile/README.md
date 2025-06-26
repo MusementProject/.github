@@ -7,7 +7,7 @@
 
 ## 🎶 About this Project
 
-Musement is an interactive platform that helps users find their next live music experience. By importing your playlists from Spotify, the app analyzes your favorite artists, ranks them by listening frequency, and searches for upcoming concerts in your area. Beyond tailored event recommendations, Musement encourages social engagement: invite friends, join group outings, and discuss shows in dedicated concert threads. Manage your tickets in-app, store media securely in the cloud, and keep up with friends’ musical adventures—all from one intuitive interface.
+Musement is an interactive platform that helps users find their next live music experience. By importing your playlists from Spotify, the app analyzes your favorite artists, ranks them by listening frequency, and searches for upcoming concerts in your area. Beyond tailored event recommendations, Musement encourages social engagement: invite friends, join group outings, and discuss shows in dedicated concert threads. Manage your tickets in-app, store media securely in the cloud, and keep up with friends’ musical adventures — all from one intuitive interface.
 
 ## ✨ Features
 
